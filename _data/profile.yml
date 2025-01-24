@@ -3,7 +3,7 @@ secondary_name: "(Sharron)"
 navbar_name: "YAN Jiayi's homepage"
 
 positions:
-- logo: /assets/images/badges/cuhk_logo  # Logo is optional
+- logo: /assets/images/badges/cuhk_logo.png  # Logo is optional
   name: The Chinese University of Hong Kong
 - name: Position 2 without logo
 
